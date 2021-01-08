@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Portrait Wallpapers</string>
+    <string name="set_btn">Set</string>
+    <string name="splash_text">My Wallpapers</string>
+</resources>
